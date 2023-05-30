@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="message">Bem-Vindo ao App</string>
+    <string name="digite_seu_peso_aqui">Digite seu peso aqui</string>
+    <string name="digite_sua_altura_aqui">Digite sua altura aqui</string>
+    <string name="click">Click</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+
+</resources>
